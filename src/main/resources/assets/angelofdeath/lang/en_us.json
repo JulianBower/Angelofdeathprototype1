@@ -1,0 +1,12 @@
+{
+  "item.angelofdeath.angel_of_death": "The Angel of Death",
+  "entity.angelofdeath.singularity": "Singularity",
+  "itemGroup.angelofdeath": "The Angel of Death",
+  "message.angelofdeath.mode.black_hole": "Mode: Black Hole",
+  "message.angelofdeath.mode.white_hole": "Mode: White Hole",
+  "tooltip.angelofdeath.mode.black_hole": "Mode: Black Hole",
+  "tooltip.angelofdeath.mode.white_hole": "Mode: White Hole",
+  "tooltip.angelofdeath.switch": "Shift + Right-Click: switch mode",
+  "tooltip.angelofdeath.channel": "Hold Right-Click: channel a singularity",
+  "tooltip.angelofdeath.place": "Left-Click while channeling: hurl it up to 40 blocks"
+}
